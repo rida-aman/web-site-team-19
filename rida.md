@@ -1,3 +1,5 @@
+Functionalities: 
+
 The main functionalities that would use this database could include:
 
 Product search: Users could search the site using keywords or filters to find products they want to purchase. This feature would require access to the product database to return relevant results.
@@ -9,6 +11,9 @@ Order processing: When a user finalizes their order, the website should access t
 Order tracking: Users should be able to track the status of their order, such as delivery status or shipping updates. This feature would require access to the order database to retrieve order information and the delivery database to store tracking information.
 
 
+----------------------------
+
+DataBase: 
 
 The database design that I proposed for an e-commerce website provides a robust solution for storing information about products, users, orders, and delivery tracking information. This design uses primary and foreign keys to establish relationships between tables, which allows for data integrity and ease of maintenance.
 
